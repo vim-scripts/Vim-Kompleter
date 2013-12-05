@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4788
+
+A smart, fast, simple, and reliable keyword completion replacement for Vim.
+
+It differs from the standard keyword completion by extensive usage of distance and frequency algorithms in order to perform keyword matching. Those algorithms are inspired by TextMate's keyword completion experiences.
+
+It is written with K to emphasize its new approach to keyword completion.
+
+More details you will find on the project page: https://github.com/szw/vim-kompleter
